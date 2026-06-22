@@ -54,7 +54,7 @@ The models are evaluated using:
 | Model | Topics | NMI | ARI | Purity |
 |---|---:|---:|---:|---:|
 | LDA | 11 | 0.2839 | 0.1437 | 0.2798 |
-| BERTopic | 95 | 0.5843 | 0.4843 | 0.6313 |
+| BERTopic | 163 | 0.5459 | 0.3719 | 0.6812 |
 
 The results show that BERTopic achieves stronger alignment with the original 20 Newsgroups categories. LDA is simpler and more interpretable, while BERTopic produces more fine-grained semantic topics.
 
